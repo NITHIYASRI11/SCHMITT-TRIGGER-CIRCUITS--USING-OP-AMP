@@ -46,4 +46,4 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 ## RESULT:
-Thus the RC phase shift and wein bridge oscillator are designed and tested using op-amp IC741.
+Thus a schmitt trigger is designed and tested using op-amp IC741.
