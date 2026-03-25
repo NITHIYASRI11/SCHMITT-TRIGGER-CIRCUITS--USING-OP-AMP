@@ -17,8 +17,10 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 <img width="550" height="416" alt="image" src="https://github.com/user-attachments/assets/fb8c952f-c4e7-4c7d-a313-6b07db47def8" />
 
 ## TABULATION:
+<img width="1402" height="977" alt="image" src="https://github.com/user-attachments/assets/b37942a0-cbe1-403f-87fd-2a9208b962d0" />
 
 ## GRAPH:
+<img width="1148" height="1551" alt="image" src="https://github.com/user-attachments/assets/f2f4f6a4-fb63-4e1d-b917-307383752e24" />
 
 ## DESIGN:
 1. Select the desire value of Vut & Vlt with same magnitude & opposite polarity.
@@ -44,3 +46,4 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 ## RESULT:
+Thus the RC phase shift and wein bridge oscillator are designed and tested using op-amp IC741.
